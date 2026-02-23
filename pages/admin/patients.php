@@ -691,5 +691,6 @@ $patients = $patientsQuery->fetchAll();
         opacity: 1;
     }
     </style>
+    
 </body>
 </html>
